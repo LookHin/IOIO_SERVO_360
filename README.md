@@ -1,7 +1,7 @@
 IOIO_SERVO_360
 ==============
 
-IOIO SERVO 360 (Android Application)
+IOIO SERVO 360 (Control the hardware by Android application and IOIO board)
 
 ## PIN MAP
 Pulse Control = PIN 3  
