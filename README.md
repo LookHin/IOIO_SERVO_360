@@ -1,4 +1,4 @@
-IOIO_SERVO_360
+IOIO_SERVO_360 [No Maintenance]
 ==============
 
 IOIO SERVO 360 (Control the hardware by Android application and IOIO board)
